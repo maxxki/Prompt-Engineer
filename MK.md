@@ -18,6 +18,5 @@ Mein Tech-Stack im Überblick.
 - Web3-Experte |
 - Zero-Trust Security Modelle |
 - FinTech-konforme Lösungen |
-- Cyber-physikalische Systeme |
-
+- Cyber-physikalische Systeme 
   
